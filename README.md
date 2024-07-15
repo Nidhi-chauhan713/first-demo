@@ -1,2 +1,3 @@
 # first-demo
-This is Nidhi Chauhan
+This is my first Git repository
+ Author - Nidhi Chauhan
